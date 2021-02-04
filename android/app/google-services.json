@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34757220639",
+    "firebase_url": "https://loja-virtualex.firebaseio.com",
+    "project_id": "loja-virtualex",
+    "storage_bucket": "loja-virtualex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34757220639:android:69c424bde5897f4758382a",
+        "android_client_info": {
+          "package_name": "br.com.loja_virtualex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34757220639-jkqe48lcfu3mikplu7igdj2pn3e2844n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmvhhRkOhWLq9M8-8wQ6-VEnI1eyFTPdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34757220639-jkqe48lcfu3mikplu7igdj2pn3e2844n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
